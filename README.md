@@ -1,5 +1,7 @@
 Optim'Air
+
 API pour la Qualité de l'Air des Villes
+
 Cette API permet de gérer et consulter des données de qualité d'air pour différentes villes, en intégrant l'API Google Air Quality.
 Déploiement sur Render
 1. Prérequis
