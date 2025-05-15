@@ -1,0 +1,4 @@
+nom;code;lat;lon;source;monuments;shopping;parcs
+Paris;FR-Paris;48.8566;2.3522;Airparif;"Tour Eiffel|48.8584,2.2945|Notre-Dame|48.8530,2.3499|Arc de Triomphe|48.8738,2.2950";"Les Halles|48.8625,2.3469|Galeries Lafayette|48.8738,2.3326";"Disneyland Paris|48.8674,2.7833|Parc Astérix|49.1358,2.5823"
+Lyon;FR-Lyon;45.7640;4.8357;GCP;"Basilique de Fourvière|45.7622,4.8224|Théâtre Romain|45.7579,4.8221";"La Part-Dieu|45.7601,4.8588|Confluence|45.7417,4.8156";"Mini World Lyon|45.7847,4.9269"
+Marseille;FR-Marseille;43.2965;5.3698;GCP;"Notre-Dame de la Garde|43.2841,5.3713|Vieux-Port|43.2966,5.3700";"Les Terrasses du Port|43.3061,5.3675|Centre Bourse|43.2961,5.3796";"OK Corral|43.3384,5.7828"
